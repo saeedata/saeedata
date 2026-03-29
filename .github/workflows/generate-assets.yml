@@ -1,0 +1,31 @@
+name: Generate README Assets
+
+on:
+  workflow_dispatch:        # allow manual run
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # needed to commit generated SVGs
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+
+      - name: Generate static SVG badges
+        run: go run ./scripts/badges
+
+      - name: Commit and push updated assets
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --staged --quiet \
+            && echo "No asset changes — skipping commit." \
+            || git commit -m "chore: regenerate README assets [skip ci]" && git push
