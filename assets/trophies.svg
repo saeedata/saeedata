@@ -24,7 +24,7 @@
     <text x="74" y="52" fill="#c0caf5" font-size="10" font-family="monospace" text-anchor="middle">Commits</text>
     <rect x="40" y="58" width="68" height="18" rx="3" fill="#9ece6a30"/>
     <text x="74" y="71" fill="#9ece6a" font-size="12" font-weight="bold" font-family="monospace" text-anchor="middle">A</text>
-    <text x="74" y="92" fill="#a9b1d6" font-size="10" font-family="monospace" text-anchor="middle">32</text>
+    <text x="74" y="92" fill="#a9b1d6" font-size="10" font-family="monospace" text-anchor="middle">33</text>
   </g>
   <g transform="translate(12,182)">
     <rect width="148" height="108" rx="6" fill="#1a1b27" stroke="#7aa2f7" stroke-width="1.5"/>
@@ -32,7 +32,7 @@
     <text x="74" y="52" fill="#c0caf5" font-size="10" font-family="monospace" text-anchor="middle">Repos</text>
     <rect x="40" y="58" width="68" height="18" rx="3" fill="#7aa2f730"/>
     <text x="74" y="71" fill="#7aa2f7" font-size="12" font-weight="bold" font-family="monospace" text-anchor="middle">AAA</text>
-    <text x="74" y="92" fill="#a9b1d6" font-size="10" font-family="monospace" text-anchor="middle">23</text>
+    <text x="74" y="92" fill="#a9b1d6" font-size="10" font-family="monospace" text-anchor="middle">24</text>
   </g>
   <g transform="translate(172,182)">
     <rect width="148" height="108" rx="6" fill="#1a1b27" stroke="#a9b1d6" stroke-width="1.5"/>
