@@ -30,10 +30,11 @@
 .c.c23{animation-name:c23}@keyframes c23{0%{fill:var(--c2)}57.4193%{fill:var(--c2)}57.4195%{fill:var(--ce)}100%{fill:var(--ce)}}
 .c.c24{animation-name:c24}@keyframes c24{0%{fill:var(--c1)}58.7096%{fill:var(--c1)}58.7098%{fill:var(--ce)}100%{fill:var(--ce)}}
 .c.c25{animation-name:c25}@keyframes c25{0%{fill:var(--c2)}59.3547%{fill:var(--c2)}59.3549%{fill:var(--ce)}100%{fill:var(--ce)}}
-.c.c26{animation-name:c26}@keyframes c26{0%{fill:var(--c2)}60.6451%{fill:var(--c2)}60.6453%{fill:var(--ce)}100%{fill:var(--ce)}}
-.c.c27{animation-name:c27}@keyframes c27{0%{fill:var(--c4)}61.2902%{fill:var(--c4)}61.2904%{fill:var(--ce)}100%{fill:var(--ce)}}
-.c.c28{animation-name:c28}@keyframes c28{0%{fill:var(--c2)}62.5805%{fill:var(--c2)}62.5807%{fill:var(--ce)}100%{fill:var(--ce)}}
-.c.c29{animation-name:c29}@keyframes c29{0%{fill:var(--c3)}64.5160%{fill:var(--c3)}64.5162%{fill:var(--ce)}100%{fill:var(--ce)}}
+.c.c26{animation-name:c26}@keyframes c26{0%{fill:var(--c2)}59.9999%{fill:var(--c2)}60.0001%{fill:var(--ce)}100%{fill:var(--ce)}}
+.c.c27{animation-name:c27}@keyframes c27{0%{fill:var(--c2)}60.6451%{fill:var(--c2)}60.6453%{fill:var(--ce)}100%{fill:var(--ce)}}
+.c.c28{animation-name:c28}@keyframes c28{0%{fill:var(--c4)}61.2902%{fill:var(--c4)}61.2904%{fill:var(--ce)}100%{fill:var(--ce)}}
+.c.c29{animation-name:c29}@keyframes c29{0%{fill:var(--c2)}62.5805%{fill:var(--c2)}62.5807%{fill:var(--ce)}100%{fill:var(--ce)}}
+.c.c30{animation-name:c30}@keyframes c30{0%{fill:var(--c3)}64.5160%{fill:var(--c3)}64.5162%{fill:var(--ce)}100%{fill:var(--ce)}}
 .s{fill:var(--cs);animation:s_ linear 15500ms infinite}
 @keyframes s_{}
 .s.s0{animation-name:s0}
@@ -72,10 +73,11 @@
 .st.st23{animation-name:st23}@keyframes st23{0%{fill:var(--ce)}57.4193%{fill:var(--ce)}57.4195%{fill:var(--c2)}100%{fill:var(--c2)}}
 .st.st24{animation-name:st24}@keyframes st24{0%{fill:var(--ce)}58.7096%{fill:var(--ce)}58.7098%{fill:var(--c1)}100%{fill:var(--c1)}}
 .st.st25{animation-name:st25}@keyframes st25{0%{fill:var(--ce)}59.3547%{fill:var(--ce)}59.3549%{fill:var(--c2)}100%{fill:var(--c2)}}
-.st.st26{animation-name:st26}@keyframes st26{0%{fill:var(--ce)}60.6451%{fill:var(--ce)}60.6453%{fill:var(--c2)}100%{fill:var(--c2)}}
-.st.st27{animation-name:st27}@keyframes st27{0%{fill:var(--ce)}61.2902%{fill:var(--ce)}61.2904%{fill:var(--c4)}100%{fill:var(--c4)}}
-.st.st28{animation-name:st28}@keyframes st28{0%{fill:var(--ce)}62.5805%{fill:var(--ce)}62.5807%{fill:var(--c2)}100%{fill:var(--c2)}}
-.st.st29{animation-name:st29}@keyframes st29{0%{fill:var(--ce)}64.5160%{fill:var(--ce)}64.5162%{fill:var(--c3)}100%{fill:var(--c3)}}
+.st.st26{animation-name:st26}@keyframes st26{0%{fill:var(--ce)}59.9999%{fill:var(--ce)}60.0001%{fill:var(--c2)}100%{fill:var(--c2)}}
+.st.st27{animation-name:st27}@keyframes st27{0%{fill:var(--ce)}60.6451%{fill:var(--ce)}60.6453%{fill:var(--c2)}100%{fill:var(--c2)}}
+.st.st28{animation-name:st28}@keyframes st28{0%{fill:var(--ce)}61.2902%{fill:var(--ce)}61.2904%{fill:var(--c4)}100%{fill:var(--c4)}}
+.st.st29{animation-name:st29}@keyframes st29{0%{fill:var(--ce)}62.5805%{fill:var(--ce)}62.5807%{fill:var(--c2)}100%{fill:var(--c2)}}
+.st.st30{animation-name:st30}@keyframes st30{0%{fill:var(--ce)}64.5160%{fill:var(--ce)}64.5162%{fill:var(--c3)}100%{fill:var(--c3)}}
 </style>
 <rect class="c" x="2" y="2" width="12" height="12" rx="2" ry="2"/>
 <rect class="c" x="2" y="18" width="12" height="12" rx="2" ry="2"/>
@@ -419,7 +421,7 @@
 <rect class="c c10" x="770" y="50" width="12" height="12" rx="2" ry="2"/>
 <rect class="c c9" x="770" y="66" width="12" height="12" rx="2" ry="2"/>
 <rect class="c c8" x="770" y="82" width="12" height="12" rx="2" ry="2"/>
-<rect class="c c29" x="770" y="98" width="12" height="12" rx="2" ry="2"/>
+<rect class="c c30" x="770" y="98" width="12" height="12" rx="2" ry="2"/>
 <rect class="c" x="786" y="2" width="12" height="12" rx="2" ry="2"/>
 <rect class="c" x="786" y="18" width="12" height="12" rx="2" ry="2"/>
 <rect class="c" x="786" y="34" width="12" height="12" rx="2" ry="2"/>
@@ -432,52 +434,53 @@
 <rect class="c c19" x="802" y="34" width="12" height="12" rx="2" ry="2"/>
 <rect class="c c18" x="802" y="50" width="12" height="12" rx="2" ry="2"/>
 <rect class="c" x="802" y="66" width="12" height="12" rx="2" ry="2"/>
-<rect class="c c28" x="802" y="82" width="12" height="12" rx="2" ry="2"/>
+<rect class="c c29" x="802" y="82" width="12" height="12" rx="2" ry="2"/>
 <rect class="c" x="802" y="98" width="12" height="12" rx="2" ry="2"/>
 <rect class="c c21" x="818" y="2" width="12" height="12" rx="2" ry="2"/>
 <rect class="c" x="818" y="18" width="12" height="12" rx="2" ry="2"/>
 <rect class="c" x="818" y="34" width="12" height="12" rx="2" ry="2"/>
 <rect class="c" x="818" y="50" width="12" height="12" rx="2" ry="2"/>
 <rect class="c" x="818" y="66" width="12" height="12" rx="2" ry="2"/>
-<rect class="c c26" x="818" y="82" width="12" height="12" rx="2" ry="2"/>
-<rect class="c c27" x="818" y="98" width="12" height="12" rx="2" ry="2"/>
+<rect class="c c27" x="818" y="82" width="12" height="12" rx="2" ry="2"/>
+<rect class="c c28" x="818" y="98" width="12" height="12" rx="2" ry="2"/>
 <rect class="c c22" x="834" y="2" width="12" height="12" rx="2" ry="2"/>
 <rect class="c c23" x="834" y="18" width="12" height="12" rx="2" ry="2"/>
 <rect class="c" x="834" y="34" width="12" height="12" rx="2" ry="2"/>
 <rect class="c c24" x="834" y="50" width="12" height="12" rx="2" ry="2"/>
 <rect class="c c25" x="834" y="66" width="12" height="12" rx="2" ry="2"/>
-<rect class="c" x="834" y="82" width="12" height="12" rx="2" ry="2"/>
+<rect class="c c26" x="834" y="82" width="12" height="12" rx="2" ry="2"/>
 <rect class="c" x="834" y="98" width="12" height="12" rx="2" ry="2"/>
-<rect class="st st0" x="0.00" y="124" width="28.27" height="12"/>
-<rect class="st st1" x="28.27" y="124" width="28.27" height="12"/>
-<rect class="st st2" x="56.53" y="124" width="28.27" height="12"/>
-<rect class="st st3" x="84.80" y="124" width="28.27" height="12"/>
-<rect class="st st4" x="113.07" y="124" width="28.27" height="12"/>
-<rect class="st st5" x="141.33" y="124" width="28.27" height="12"/>
-<rect class="st st6" x="169.60" y="124" width="28.27" height="12"/>
-<rect class="st st7" x="197.87" y="124" width="28.27" height="12"/>
-<rect class="st st8" x="226.13" y="124" width="28.27" height="12"/>
-<rect class="st st9" x="254.40" y="124" width="28.27" height="12"/>
-<rect class="st st10" x="282.67" y="124" width="28.27" height="12"/>
-<rect class="st st11" x="310.93" y="124" width="28.27" height="12"/>
-<rect class="st st12" x="339.20" y="124" width="28.27" height="12"/>
-<rect class="st st13" x="367.47" y="124" width="28.27" height="12"/>
-<rect class="st st14" x="395.73" y="124" width="28.27" height="12"/>
-<rect class="st st15" x="424.00" y="124" width="28.27" height="12"/>
-<rect class="st st16" x="452.27" y="124" width="28.27" height="12"/>
-<rect class="st st17" x="480.53" y="124" width="28.27" height="12"/>
-<rect class="st st18" x="508.80" y="124" width="28.27" height="12"/>
-<rect class="st st19" x="537.07" y="124" width="28.27" height="12"/>
-<rect class="st st20" x="565.33" y="124" width="28.27" height="12"/>
-<rect class="st st21" x="593.60" y="124" width="28.27" height="12"/>
-<rect class="st st22" x="621.87" y="124" width="28.27" height="12"/>
-<rect class="st st23" x="650.13" y="124" width="28.27" height="12"/>
-<rect class="st st24" x="678.40" y="124" width="28.27" height="12"/>
-<rect class="st st25" x="706.67" y="124" width="28.27" height="12"/>
-<rect class="st st26" x="734.93" y="124" width="28.27" height="12"/>
-<rect class="st st27" x="763.20" y="124" width="28.27" height="12"/>
-<rect class="st st28" x="791.47" y="124" width="28.27" height="12"/>
-<rect class="st st29" x="819.73" y="124" width="28.27" height="12"/>
+<rect class="st st0" x="0.00" y="124" width="27.35" height="12"/>
+<rect class="st st1" x="27.35" y="124" width="27.35" height="12"/>
+<rect class="st st2" x="54.71" y="124" width="27.35" height="12"/>
+<rect class="st st3" x="82.06" y="124" width="27.35" height="12"/>
+<rect class="st st4" x="109.42" y="124" width="27.35" height="12"/>
+<rect class="st st5" x="136.77" y="124" width="27.35" height="12"/>
+<rect class="st st6" x="164.13" y="124" width="27.35" height="12"/>
+<rect class="st st7" x="191.48" y="124" width="27.35" height="12"/>
+<rect class="st st8" x="218.84" y="124" width="27.35" height="12"/>
+<rect class="st st9" x="246.19" y="124" width="27.35" height="12"/>
+<rect class="st st10" x="273.55" y="124" width="27.35" height="12"/>
+<rect class="st st11" x="300.90" y="124" width="27.35" height="12"/>
+<rect class="st st12" x="328.26" y="124" width="27.35" height="12"/>
+<rect class="st st13" x="355.61" y="124" width="27.35" height="12"/>
+<rect class="st st14" x="382.97" y="124" width="27.35" height="12"/>
+<rect class="st st15" x="410.32" y="124" width="27.35" height="12"/>
+<rect class="st st16" x="437.68" y="124" width="27.35" height="12"/>
+<rect class="st st17" x="465.03" y="124" width="27.35" height="12"/>
+<rect class="st st18" x="492.39" y="124" width="27.35" height="12"/>
+<rect class="st st19" x="519.74" y="124" width="27.35" height="12"/>
+<rect class="st st20" x="547.10" y="124" width="27.35" height="12"/>
+<rect class="st st21" x="574.45" y="124" width="27.35" height="12"/>
+<rect class="st st22" x="601.81" y="124" width="27.35" height="12"/>
+<rect class="st st23" x="629.16" y="124" width="27.35" height="12"/>
+<rect class="st st24" x="656.52" y="124" width="27.35" height="12"/>
+<rect class="st st25" x="683.87" y="124" width="27.35" height="12"/>
+<rect class="st st26" x="711.23" y="124" width="27.35" height="12"/>
+<rect class="st st27" x="738.58" y="124" width="27.35" height="12"/>
+<rect class="st st28" x="765.94" y="124" width="27.35" height="12"/>
+<rect class="st st29" x="793.29" y="124" width="27.35" height="12"/>
+<rect class="st st30" x="820.65" y="124" width="27.35" height="12"/>
 <rect class="s s3" x="3" y="3" width="9.9" height="9.9" rx="3.3" ry="3.3"/>
 <rect class="s s2" x="2" y="2" width="10.8" height="10.8" rx="3.6" ry="3.6"/>
 <rect class="s s1" x="2" y="2" width="12.3" height="12.3" rx="4.1" ry="4.1"/>
