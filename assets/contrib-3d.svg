@@ -2247,6 +2247,12 @@
 <rect stroke="none" x="0" y="0" width="18.00" height="2.60" transform="skewY(30.00) scale(1.00 1.15)" class="cont-left-0"><animate attributeName="height" values="2.60;2.60" dur="3s" repeatCount="1" fill="freeze"/></rect>
 <rect stroke="none" x="0" y="0" width="18.00" height="2.60" transform="translate(18.00 10.39) skewY(-30.00) scale(1.00 1.15)" class="cont-right-0"><animate attributeName="height" values="2.60;2.60" dur="3s" repeatCount="1" fill="freeze"/></rect>
 </g>
+<g transform="translate(1060.00 823.91)">
+<animateTransform attributeName="transform" type="translate" values="1060.00 823.91;1060.00 823.91" dur="3s" repeatCount="1" fill="freeze"/>
+<rect stroke="none" x="0" y="0" width="18.00" height="18.00" transform="skewY(-30.00) skewX(40.89) scale(1.00 1.15)" class="cont-top-0"></rect>
+<rect stroke="none" x="0" y="0" width="18.00" height="2.60" transform="skewY(30.00) scale(1.00 1.15)" class="cont-left-0"><animate attributeName="height" values="2.60;2.60" dur="3s" repeatCount="1" fill="freeze"/></rect>
+<rect stroke="none" x="0" y="0" width="18.00" height="2.60" transform="translate(18.00 10.39) skewY(-30.00) scale(1.00 1.15)" class="cont-right-0"><animate attributeName="height" values="2.60;2.60" dur="3s" repeatCount="1" fill="freeze"/></rect>
+</g>
 </g>
 <g transform="translate(980.00, 284.50)">
 <line x1="0.00" y1="-31.20" x2="29.67" y2="-9.64" class="stroke-weak" style="stroke-dasharray: 4 4; stroke-width: 1px;" />
@@ -2317,6 +2323,6 @@
 <text style="font-size: 32px; font-weight: bold;" x="650.00" y="830.00" text-anchor="start" class="fill-fg">7<title>7</title></text>
 <g transform="translate(736.00, 802.00) scale(2)"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z" class="fill-fg"></path></g>
 <text style="font-size: 32px; font-weight: bold;" x="772.00" y="830.00" text-anchor="start" class="fill-fg">2<title>2</title></text>
-<text style="font-size: 16px;" x="1260.00" y="20" dominant-baseline="hanging" text-anchor="end" class="fill-weak">2025-08-17 / 2026-08-21</text>
+<text style="font-size: 16px;" x="1260.00" y="20" dominant-baseline="hanging" text-anchor="end" class="fill-weak">2025-08-17 / 2026-08-22</text>
 </g>
 </svg>
