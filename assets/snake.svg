@@ -43,7 +43,7 @@
 .c.c36{animation-name:c36}@keyframes c36{0%{fill:var(--c2)}60.6935%{fill:var(--c2)}60.6937%{fill:var(--ce)}100%{fill:var(--ce)}}
 .c.c37{animation-name:c37}@keyframes c37{0%{fill:var(--c2)}61.2716%{fill:var(--c2)}61.2718%{fill:var(--ce)}100%{fill:var(--ce)}}
 .c.c38{animation-name:c38}@keyframes c38{0%{fill:var(--c2)}61.8496%{fill:var(--c2)}61.8498%{fill:var(--ce)}100%{fill:var(--ce)}}
-.c.c39{animation-name:c39}@keyframes c39{0%{fill:var(--c1)}62.4276%{fill:var(--c1)}62.4278%{fill:var(--ce)}100%{fill:var(--ce)}}
+.c.c39{animation-name:c39}@keyframes c39{0%{fill:var(--c2)}62.4276%{fill:var(--c2)}62.4278%{fill:var(--ce)}100%{fill:var(--ce)}}
 .c.c40{animation-name:c40}@keyframes c40{0%{fill:var(--c2)}63.5837%{fill:var(--c2)}63.5839%{fill:var(--ce)}100%{fill:var(--ce)}}
 .c.c41{animation-name:c41}@keyframes c41{0%{fill:var(--c1)}64.7398%{fill:var(--c1)}64.7400%{fill:var(--ce)}100%{fill:var(--ce)}}
 .c.c42{animation-name:c42}@keyframes c42{0%{fill:var(--c2)}65.8959%{fill:var(--c2)}65.8961%{fill:var(--ce)}100%{fill:var(--ce)}}
@@ -101,7 +101,7 @@
 .st.st36{animation-name:st36}@keyframes st36{0%{fill:var(--ce)}60.6935%{fill:var(--ce)}60.6937%{fill:var(--c2)}100%{fill:var(--c2)}}
 .st.st37{animation-name:st37}@keyframes st37{0%{fill:var(--ce)}61.2716%{fill:var(--ce)}61.2718%{fill:var(--c2)}100%{fill:var(--c2)}}
 .st.st38{animation-name:st38}@keyframes st38{0%{fill:var(--ce)}61.8496%{fill:var(--ce)}61.8498%{fill:var(--c2)}100%{fill:var(--c2)}}
-.st.st39{animation-name:st39}@keyframes st39{0%{fill:var(--ce)}62.4276%{fill:var(--ce)}62.4278%{fill:var(--c1)}100%{fill:var(--c1)}}
+.st.st39{animation-name:st39}@keyframes st39{0%{fill:var(--ce)}62.4276%{fill:var(--ce)}62.4278%{fill:var(--c2)}100%{fill:var(--c2)}}
 .st.st40{animation-name:st40}@keyframes st40{0%{fill:var(--ce)}63.5837%{fill:var(--ce)}63.5839%{fill:var(--c2)}100%{fill:var(--c2)}}
 .st.st41{animation-name:st41}@keyframes st41{0%{fill:var(--ce)}64.7398%{fill:var(--ce)}64.7400%{fill:var(--c1)}100%{fill:var(--c1)}}
 .st.st42{animation-name:st42}@keyframes st42{0%{fill:var(--ce)}65.8959%{fill:var(--ce)}65.8961%{fill:var(--c2)}100%{fill:var(--c2)}}
